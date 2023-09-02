@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on <br>- Optimising Cloud Infrastructure<br>- Configuring and Deploying various CI/CD tooling on Kubernetes<br>- Establishing DevOps practices & aid build automations for easier adoption<br><br>👯 I’m looking to collaborate on:<br>- Kubernetes & related projects<br>- Docker<br>- GoLang<br><br>🌱 I’m currently learning GoLang<br>💬 Ask me about CI/CD tools, APIs & Containerisation Tech<br>⚡ Fun fact - Animes motivate me when my code gives up on me! 
+🔭 I’m currently working on <br>- Optimising Cloud Infrastructure<br>- Configuring and Deploying various CI/CD tooling on Kubernetes<br>- Establishing DevOps practices & aid build automations for easier adoption<br><br>👯 I’m looking to collaborate on:<br>- Kubernetes & related projects<br>- Docker<br>- GoLang<br><br>🌱 I’m currently learning GoLang<br>📫 How to reach me: rohitss912@gmail.com<br>💬 Ask me about CI/CD tools, APIs & Containerisation Tech<br>⚡ Fun fact - Animes motivate me when my code gives up on me! 
 
 
 ## 🌐 Socials:
